@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 10px auto 0 auto;
+  font-family: 'Rock Salt', cursive;
+  font-size: 70px;
+  color: white;
+  text-shadow: 2px 2px 4px #008080;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+  color: #54123b;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #008080;
+}
+
+.top-container {
+  background-image: linear-gradient(#d2ebe9, #84a9ac, #3b6978);
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.skill-row {
+  width:50%;
+  margin: 100Px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.stormybeach {
+  width: 100%;
+  margin: 0;
+}
+
+.profile-photo {
+  width:13%;
+  padding-top: 30px;
+}
+
+.teal-paint-img {
+  width:35%;
+  float: left;
+  margin:50px;
+}
+
+.gold-paint-img {
+  width: 50%;
+  float: right;
+  margin: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #000000;
+  font-family: serif;
+  font-size: 45px;
+  font-weight: 100;
+  padding: 30px;
+  background-color: rgba(61, 239, 246, 0.92);
+  box-shadow: 1px 1px 20px 0px #000000;
+  -webkit-box-shadow: 1px 1px 20px 0px #000000;
+  -moz-box-shadow: 1px 1px 20px 0px #000000;
+  border: solid #0059A0 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
